@@ -1,0 +1,11 @@
+{
+  "students": [],
+  "admins": [
+    {"name": "赵", "password": "123456"}
+  ],
+  "studentPasswords": {
+    "赵": "666666"
+  },
+  "logs": [],
+  "drawOptions": ["选项1", "选项2", "选项3"]
+}
